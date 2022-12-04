@@ -1,8 +1,8 @@
 # OSS Projects
 
-Many projects have README fles like this. They ehlp to describe what the project does.
+Many projects have README fles like this. They help to describe what the project does.
 
-In general, they just provide info that's helpfl to anyone new to the project.
+In general, they just provide info that's helpfull to anyone new to the project.
 
 Usually, they'll start off with a brief descripton of what the project is, and how to use it.
 
