@@ -8,7 +8,7 @@ Usually, they'll start off with a brief descripton of what the project is, and h
 
 They might also include some documentation on how to use speific features of the project.
 
-Finally, thell have a section on how to buld the project from source, and how to contribute.
+Finally, they'll have a section on how to build the project from source, and how to contribute.
 
 For some more info on exactly how they're structured, ake a look at the rEADMEs for some popular projects.
 
