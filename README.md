@@ -27,7 +27,7 @@ whole section. That way, everyone will have a chance of fixing their own typo.
 
 Once you've modified the file on your computer, you need to upload it to your GitHub fork. Type `git add *` in your terminal (make sure you're in the `Git-OSS-Project` folder).
 If you'd like to, you can also type `git status` to look at what files have changed. Next, run `git commit -m "Fixed typos"`. This creates a "commit" (a little package containing your changes + some metadata about them)
-with the name `Fixed typos`. Now that we have a commit, we can upload it to GitHub with `git push -u origin master`.
+with the name `Fixed typos`. Now that we have a commit, we can upload it to GitHub with `git push -u origin main`.
 
 Now, the changes are in your own fork, but not in the main repository. In order to bring them over, go to the GitHub page for your fork, refresh the page, and click the button prompting you to
 create a pull request. Now, you can give it a name and description, and then submit it. Someone with write access to the repository (in this case, me) will review it, and if it looks good (which it probably will),
