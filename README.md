@@ -10,7 +10,7 @@ They might also include some documentation on how to use specific features of th
 
 Finally, they will have a section on how to build the project from source, and how to contribute.
 
-For some more info on exactly how they're structured, ake a look at the READMEs for some popular projects.
+For some more info on exactly how they're structured, take a look at the READMEs for some popular projects.
 
 ## Instructions
 
